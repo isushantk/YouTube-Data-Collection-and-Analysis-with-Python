@@ -36,6 +36,7 @@ python data_analysis.py
 
 
 ## 🗂️ Project Structure
+
 youtube-trending-analysis/
 ├── 📁 data/
 │ ├── trending_videos.csv # Raw trending data
@@ -67,11 +68,6 @@ youtube-trending-analysis/
 - ✅ **Views ↔ Likes ↔ Comments**: 0.85+ correlation
 - ✅ **Peak upload**: 2 PM - 8 PM
 - ❌ **Tags**: minimal impact on views [web:19]
-
-## 📊 Sample Visualizations
-
-<img src="images/category_engagement.png" width="500"/>
-<img src="images/duration_analysis.png" width="500"/> [web:6]
 
 ## ⚙️ API Usage & Limits
 Quota Cost: ~100 units/call | Free: 10,000 units/day
